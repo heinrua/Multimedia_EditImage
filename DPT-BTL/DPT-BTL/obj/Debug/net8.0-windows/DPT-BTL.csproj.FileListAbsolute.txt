@@ -1,0 +1,314 @@
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.exe
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.deps.json
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.runtimeconfig.json
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.pdb
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.Form1.resources
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.GenerateResource.cache
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.GeneratedMSBuildEditorConfig.editorconfig
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.AssemblyInfoInputs.cache
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.AssemblyInfo.cs
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.CoreCompileInputs.cache
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.dll
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\refint\DPT-BTL.dll
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.pdb
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.genruntimeconfig.cache
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\ref\DPT-BTL.dll
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.AssemblyReference.cache
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.SIFTForm.resources
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Emgu.CV.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Emgu.CV.UI.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\multimedia\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.Up2Date
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.CropImgForm.resources
+D:\multimedia\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.DrawForm.resources
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.exe
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.deps.json
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.runtimeconfig.json
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.pdb
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Emgu.CV.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Emgu.CV.UI.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.AssemblyReference.cache
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.CropImgForm.resources
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.DrawForm.resources
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.Form1.resources
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.SIFTForm.resources
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.GenerateResource.cache
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.AssemblyInfoInputs.cache
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.AssemblyInfo.cs
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.CoreCompileInputs.cache
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.Up2Date
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\refint\DPT-BTL.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.pdb
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.genruntimeconfig.cache
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\ref\DPT-BTL.dll
+D:\BTL_CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.Find_LBP.resources
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.exe
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.deps.json
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.runtimeconfig.json
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.pdb
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Emgu.CV.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Emgu.CV.UI.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\A\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.AssemblyReference.cache
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.CropImgForm.resources
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.DrawForm.resources
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.Find_LBP.resources
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.Form1.resources
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.SIFTForm.resources
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.GenerateResource.cache
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.GeneratedMSBuildEditorConfig.editorconfig
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.AssemblyInfoInputs.cache
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.AssemblyInfo.cs
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.CoreCompileInputs.cache
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.Up2Date
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.dll
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\refint\DPT-BTL.dll
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.pdb
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.genruntimeconfig.cache
+D:\A\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\ref\DPT-BTL.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.exe
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.deps.json
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.runtimeconfig.json
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.pdb
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Emgu.CV.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Emgu.CV.UI.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.AssemblyReference.cache
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.CropImgForm.resources
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.DrawForm.resources
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.Find_LBP.resources
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.Form1.resources
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.SIFTForm.resources
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.GenerateResource.cache
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.AssemblyInfoInputs.cache
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.AssemblyInfo.cs
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.CoreCompileInputs.cache
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.Up2Date
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\refint\DPT-BTL.dll
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.pdb
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.genruntimeconfig.cache
+D:\DPT-BTL (1)\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\ref\DPT-BTL.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.exe
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.deps.json
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.runtimeconfig.json
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\DPT-BTL.pdb
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Emgu.CV.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Emgu.CV.Bitmap.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Emgu.CV.UI.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg4100_64.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg4100.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.AssemblyReference.cache
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.CropImgForm.resources
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.DrawForm.resources
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.Find_LBP.resources
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.Form1.resources
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT_BTL.SIFTForm.resources
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.GenerateResource.cache
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.AssemblyInfoInputs.cache
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.AssemblyInfo.cs
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.CoreCompileInputs.cache
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.csproj.Up2Date
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\refint\DPT-BTL.dll
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.pdb
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\DPT-BTL.genruntimeconfig.cache
+D:\CuoiKy_DPT\DPT-BTL\DPT-BTL\obj\Debug\net8.0-windows\ref\DPT-BTL.dll
